@@ -1,0 +1,10 @@
+id: relidin.com
+pw: 1My+2Dog+3Is+4TaoTao
+
+id:relidinc_admin
+pw:babyface28
+
+FTP username: 209@relidin.com
+FTP server: ftp.relidin.com
+FTP & explicit FTPS port: 21
+psw: library209
