@@ -1,4 +1,4 @@
-mom-n-pop
+Stevens Vote
 =========
 
 The prototype for Stevens CSSA Mid-Autumn Festival vote website
