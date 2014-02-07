@@ -1,4 +1,8 @@
 mom-n-pop
 =========
 
-A simple vote website
+The prototype for Stevens CSSA Mid-Autumn Festival vote website
+
+using PHP, JQuery, MySQL
+
+using justhost for the host service
